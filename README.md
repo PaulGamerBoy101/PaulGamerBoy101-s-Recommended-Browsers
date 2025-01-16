@@ -9,6 +9,7 @@
 * CPU Usage: 3-16%+
 * Memory Usage: 600 MB
 * Operating Systems: Windows x86, Windows x64, Mac Intel, Mac ARM, Linux x86, Linux x64, Android, Android ARM64
+* Customization & Extensions: Themes Frome The Chrome Webstore & Theme Beta, Extensions (CRX Format/Zip Files) From Chromewebstore, Github, and Other Sources Accross the Web
 
 ### Arc
 
@@ -16,6 +17,7 @@
 * CPU Usage: N/A
 * Memory Usage: N/A
 * Operating Systems: MacOS, Windows 10/11, Android (Arc Search)
+* Customization & Extensions: A Few Customization Settings Available (Mainly Color and Light/Dark), Extensions (CRX Format/Zip Files) From Chromewebstore, Github, and Other Sources Accross the Web
 
 ## Firefox Based Browsers
 
@@ -25,6 +27,7 @@
 * CPU Usage: 1-2%
 * Memory Usage: 200 MB
 * Operating Systems: Windows, Linux, MacOS
+* Customization & Extensions: Themes from addons.mozilla.org or Custom userchrome.css, Extensions From addons.mozilla.org
 
 ### Zen
 
@@ -39,14 +42,15 @@
 * CPU Usage: N/A
 * Memory Usage: N/A
 * Operating Systems: Android
+* Customization & Extensions: Light/Dark Mode, Top/Bottom Navigation, Extensions From addons.mozilla.org
 
 ## Other Browsers
 
 ### Tor/Tor Alpha
 
-* Speed:
-* CPU Usage:
-* Memory Usage:
-* Operating Systems:
+* Speed: 1-5
+* CPU Usage: N/A
+* Memory Usage: N/A
+* Operating Systems: Windows, Linux, MacOS, Android
 
 
